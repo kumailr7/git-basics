@@ -1,4 +1,3 @@
 Hello Greeks
 This is git basic file 
 This is a test file for the git basic for devops teams 
-I understood the difference between git fetch and git pull 
